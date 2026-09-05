@@ -1,24 +1,28 @@
-# Hi there! I'm Francisco Barraza
+# ¡Hola! Soy Francisco Barraza
 
-## About Me
+## Sobre mí
 
-I am a Computer and Informatics Engineering student with a hands-on, full-stack view of technology: I build backend systems, I'm learning to break and secure them, and I'm exploring how Machine Learning can make security smarter. Rather than sticking to one lane, I like understanding the whole chain — from writing an API to figuring out how someone could attack it, to modeling the data that flows through it.
+Soy estudiante de Ingeniería en Computación e Informática, con una visión integral de la tecnología: construyo sistemas backend, estoy aprendiendo a analizarlos y protegerlos desde la ciberseguridad, y exploro cómo el Machine Learning puede hacer que la seguridad sea más inteligente. En vez de quedarme en un solo frente, me interesa entender toda la cadena — desde escribir una API, hasta pensar cómo alguien podría atacarla, hasta modelar los datos que fluyen por ella.
 
-## Professional Focus & Interests
+## Enfoque Profesional e Intereses
 
-My interests sit across three connected areas:
+Mis intereses se ubican en tres áreas conectadas entre sí:
 
-- **Cybersecurity** — vulnerability analysis, secure authentication, and ethical hacking/pentesting practices applied to real applications.
-- **Machine Learning** — using predictive models and data analysis to strengthen threat detection, moving beyond static, rule-based approaches.
-- **Software Development** — building backend services and APIs with **Node.js + Express** and **ASP.NET Core**, with an emphasis on writing code that is secure by design, not secured as an afterthought.
+- **Ciberseguridad** — análisis de vulnerabilidades, autenticación segura y prácticas de ethical hacking/pentesting aplicadas a aplicaciones reales.
+- **Machine Learning** — uso de modelos predictivos y análisis de datos para fortalecer la detección de amenazas, yendo más allá de los enfoques estáticos basados en reglas.
+- **Desarrollo de Software** — construcción de servicios backend y APIs con **Node.js + Express** y **ASP.NET Core**, con énfasis en escribir código que sea seguro por diseño, no asegurado como una idea de último momento.
 
-What ties these together is a simple idea: software that isn't built with security in mind is software with an attack surface waiting to be found — and increasingly, that attack surface can be studied and predicted with data.
+Lo que conecta estas tres áreas es una idea simple: el software que no se construye pensando en seguridad es software con una superficie de ataque esperando ser descubierta — y cada vez más, esa superficie de ataque puede estudiarse y anticiparse con datos.
 
-## Currently Learning & Researching
+## Actualmente Aprendiendo e Investigando
 
-- **Backend Development:** Building REST APIs with **Node.js/Express** and **ASP.NET Core**, working through authentication, middleware, and clean project structure.
-- **Secure Coding:** Applying OWASP Top 10 principles directly while developing — input validation, auth flows, and safe handling of credentials and sessions.
-- **Machine Learning for Security:** Training classification and anomaly-detection models (Scikit-Learn) on network/security datasets to identify suspicious behavior.
-- **Offensive/Defensive Security:** Practicing vulnerability analysis and penetration testing on the same kind of applications I build, to close the loop between developing and attacking.
+- **Desarrollo Backend:** Construcción de APIs REST con **Node.js/Express** y **ASP.NET Core**, trabajando autenticación, middleware y una estructura de proyecto limpia.
+- **Programación Segura:** Aplicación de los principios del OWASP Top 10 directamente durante el desarrollo — validación de entradas, flujos de autenticación y manejo seguro de credenciales y sesiones.
+- **Machine Learning para Seguridad:** Entrenamiento de modelos de clasificación y detección de anomalías (Scikit-Learn) sobre datasets de red/seguridad para identificar comportamientos sospechosos.
+- **Seguridad Ofensiva/Defensiva:** Práctica de análisis de vulnerabilidades y pentesting sobre el mismo tipo de aplicaciones que desarrollo, para cerrar el ciclo entre construir y atacar.
 
+## Stack Tecnológico
 
+**Backend & Lenguajes**
+
+`Node.js` · `Express` · `ASP.NET Core` · `C#` · `Python` · `C++` · `SQL` · `Bash`
