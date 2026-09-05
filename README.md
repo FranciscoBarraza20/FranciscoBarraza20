@@ -25,15 +25,3 @@ My current work involves applying supervised and unsupervised learning technique
 
 **Security tooling (for data collection/context):** Wireshark · Nmap
 
-## Certifications
-
-<p>
-  <img src="URL_DE_TU_BADGE_1" alt="Introduction to Cybersecurity" width="140"/>
-  <img src="URL_DE_TU_BADGE_2" alt="Networking Basics" width="140"/>
-</p>
-
-*(Reemplaza estas URLs por las de tus badges reales, por ejemplo desde Credly o la plataforma donde obtuviste tus certificaciones)*
-
----
-
-📫 Feel free to reach out if you're working on ML for security, data analysis, or just want to talk shop.
