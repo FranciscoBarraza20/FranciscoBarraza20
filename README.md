@@ -21,29 +21,4 @@ What ties these together is a simple idea: software that isn't built with securi
 - **Machine Learning for Security:** Training classification and anomaly-detection models (Scikit-Learn) on network/security datasets to identify suspicious behavior.
 - **Offensive/Defensive Security:** Practicing vulnerability analysis and penetration testing on the same kind of applications I build, to close the loop between developing and attacking.
 
-## Tech Stack
 
-**Backend & Languages**
-
-`Node.js` · `Express` · `ASP.NET Core` · `C#` · `Python` · `C++` · `SQL` · `Bash`
-
-**Machine Learning & Data**
-
-`Scikit-Learn` · `Pandas` · `NumPy`
-
-**Cybersecurity Tooling**
-
-`Wireshark` · `Nmap` · `Burp Suite` · `Linux / Kali` · `Git & GitHub`
-
-## Certifications
-
-<p>
-  <img src="URL_DE_TU_BADGE_1" alt="Introduction to Cybersecurity" width="140"/>
-  <img src="URL_DE_TU_BADGE_2" alt="Networking Basics" width="140"/>
-</p>
-
-*(Reemplaza estas URLs por las de tus badges reales — Cisco, Coursera, Credly, etc.)*
-
----
-
-📫 If you're working on secure backend development, applied ML, or cybersecurity — or just want to compare notes — feel free to reach out.
