@@ -2,26 +2,48 @@
 
 ## About Me
 
-I am a Computer and Informatics Engineering student, currently focused on applying Machine Learning to real-world problems in cybersecurity. My work sits at the intersection of data science and systems security — I'm interested not just in building models, but in understanding the data and the threats behind them well enough to make those models actually useful in production.
+I am a Computer and Informatics Engineering student with a hands-on, full-stack view of technology: I build backend systems, I'm learning to break and secure them, and I'm exploring how Machine Learning can make security smarter. Rather than sticking to one lane, I like understanding the whole chain — from writing an API to figuring out how someone could attack it, to modeling the data that flows through it.
 
 ## Professional Focus & Interests
 
-My professional interests lie at the intersection of **Machine Learning, Data Analysis, and Cybersecurity**. I'm particularly drawn to problems where predictive models can replace static, rule-based detection — anomaly detection, intrusion detection, and malicious traffic classification.
+My interests sit across three connected areas:
 
-My current work involves applying supervised and unsupervised learning techniques to security datasets, with an emphasis on feature engineering and model evaluation over just running default algorithms.
+- **Cybersecurity** — vulnerability analysis, secure authentication, and ethical hacking/pentesting practices applied to real applications.
+- **Machine Learning** — using predictive models and data analysis to strengthen threat detection, moving beyond static, rule-based approaches.
+- **Software Development** — building backend services and APIs with **Node.js + Express** and **ASP.NET Core**, with an emphasis on writing code that is secure by design, not secured as an afterthought.
+
+What ties these together is a simple idea: software that isn't built with security in mind is software with an attack surface waiting to be found — and increasingly, that attack surface can be studied and predicted with data.
 
 ## Currently Learning & Researching
 
-- **Machine Learning for Security:** Applying classification and anomaly detection models (Random Forest, XGBoost, Isolation Forest) to network intrusion datasets such as NSL-KDD and CICIDS.
-- **Data Engineering:** Building clean, reproducible pipelines for preprocessing and feature extraction from raw security logs and network traffic.
-- **Python for ML:** Deepening my knowledge of Scikit-Learn, Pandas, and NumPy to move from notebooks to structured, testable code.
-- **Model Evaluation:** Studying how to properly validate security models — precision/recall trade-offs matter more than accuracy when false negatives mean missed attacks.
+- **Backend Development:** Building REST APIs with **Node.js/Express** and **ASP.NET Core**, working through authentication, middleware, and clean project structure.
+- **Secure Coding:** Applying OWASP Top 10 principles directly while developing — input validation, auth flows, and safe handling of credentials and sessions.
+- **Machine Learning for Security:** Training classification and anomaly-detection models (Scikit-Learn) on network/security datasets to identify suspicious behavior.
+- **Offensive/Defensive Security:** Practicing vulnerability analysis and penetration testing on the same kind of applications I build, to close the loop between developing and attacking.
 
 ## Tech Stack
 
-**Languages:** Python · SQL · Bash
+**Backend & Languages**
 
-**ML & Data:** Scikit-Learn · Pandas · NumPy
+`Node.js` · `Express` · `ASP.NET Core` · `C#` · `Python` · `C++` · `SQL` · `Bash`
 
-**Security tooling (for data collection/context):** Wireshark · Nmap
+**Machine Learning & Data**
 
+`Scikit-Learn` · `Pandas` · `NumPy`
+
+**Cybersecurity Tooling**
+
+`Wireshark` · `Nmap` · `Burp Suite` · `Linux / Kali` · `Git & GitHub`
+
+## Certifications
+
+<p>
+  <img src="URL_DE_TU_BADGE_1" alt="Introduction to Cybersecurity" width="140"/>
+  <img src="URL_DE_TU_BADGE_2" alt="Networking Basics" width="140"/>
+</p>
+
+*(Reemplaza estas URLs por las de tus badges reales — Cisco, Coursera, Credly, etc.)*
+
+---
+
+📫 If you're working on secure backend development, applied ML, or cybersecurity — or just want to compare notes — feel free to reach out.
