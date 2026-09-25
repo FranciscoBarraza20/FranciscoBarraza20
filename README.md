@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Tu%20Nombre&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniería%20en%20Computación%20e%20Informática&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&duration=3000\&pause=900\&color=58A6FF\&center=true\&vCenter=true\&width=700\&lines=Desarrollador+Backend+en+formación;Construyendo+con+.NET+%2B+C%23;Desarrollando+APIs+con+Node.js+%2B+Express;Explorando+Ciberseguridad+%F0%9F%94%90;Aprendiendo+Machine+Learning+%F0%9F%A4%96;Transformando+ideas+en+soluciones)](https://git.io/typing-svg)
-
 </div>
 
 ---
