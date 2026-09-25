@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&duration=3000\&pause=900\&color=58A6FF\&center=true\&vCenter=true\&width=700\&lines=Desarrollador+Backend+en+formación;Construyendo+con+.NET+%2B+C%23;Desarrollando+APIs+con+Node.js+%2B+Express;Explorando+Ciberseguridad+%F0%9F%94%90;Aprendiendo+Machine+Learning+%F0%9F%A4%96;Transformando+ideas+en+soluciones)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/Francisco Barraza">
     <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=1f6feb">
   </a>
   <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=58a6ff&label=VISITAS">
@@ -17,36 +17,6 @@
 
 ## 👨‍💻 Sobre mí
 
-```csharp
-public class Developer
-{
-    public string Nombre { get; } = "Tu Nombre";
-    public string Carrera { get; } = "Ingeniería en Computación e Informática";
-    public string Ubicacion { get; } = "Chile 🇨🇱";
-
-    public string[] Backend =
-    {
-        ".NET",
-        "C#",
-        "Node.js",
-        "Express"
-    };
-
-    public string[] Intereses =
-    {
-        "Ciberseguridad",
-        "Machine Learning",
-        "Desarrollo Backend",
-        "APIs REST",
-        "Bases de Datos",
-        "Seguridad de aplicaciones"
-    };
-
-    public string Objetivo =>
-        "Construir software seguro, inteligente y útil";
-}
-```
-
 Soy estudiante de **Ingeniería en Computación e Informática**, interesado en comprender cómo se construyen, protegen y mejoran los sistemas de software.
 
 Actualmente estoy enfocado principalmente en el desarrollo **Backend**, trabajando con **.NET, C#, Node.js y Express**, mientras continúo fortaleciendo mis conocimientos en bases de datos, APIs y arquitectura de aplicaciones.
@@ -57,9 +27,9 @@ Mi objetivo es seguir construyendo una base sólida en desarrollo de software pa
 
 ---
 
-## 🔐🧠 Áreas de interés
+## Áreas de interés
 
-### 🔐 Ciberseguridad
+### Ciberseguridad
 
 Me interesa comprender cómo funcionan los sistemas desde una perspectiva de seguridad y cómo pueden protegerse frente a diferentes amenazas.
 
@@ -75,7 +45,7 @@ Actualmente estoy explorando conceptos relacionados con:
 * Detección de comportamientos anómalos.
 * Buenas prácticas de desarrollo seguro.
 
-### 🧠 Machine Learning
+### Machine Learning
 
 También estoy desarrollando conocimientos en **Machine Learning**, con interés en aplicar modelos de aprendizaje automático a problemas reales.
 
@@ -92,17 +62,17 @@ También estoy desarrollando conocimientos en **Machine Learning**, con interés
 
 ---
 
-## 🚀 Actualmente
+## Actualmente
 
-* 💻 Desarrollando aplicaciones Backend.
-* ⚙️ Trabajando con **.NET y C#**.
-* 🟢 Desarrollando APIs con **Node.js y Express**.
-* 🗄️ Fortaleciendo mis conocimientos en bases de datos y SQL.
-* 🔐 Profundizando en conceptos de ciberseguridad.
-* 🧠 Aprendiendo y explorando Machine Learning.
-* 🛡️ Interesado en seguridad de aplicaciones y APIs.
-* 🚀 Construyendo proyectos para fortalecer mi portafolio.
-* 🎯 Preparándome para desarrollarme profesionalmente en tecnología.
+* Desarrollando aplicaciones Backend.
+* Trabajando con **.NET y C#**.
+* Desarrollando APIs con **Node.js y Express**.
+* Fortaleciendo mis conocimientos en bases de datos y SQL.
+* Profundizando en conceptos de ciberseguridad.
+* Aprendiendo y explorando Machine Learning.
+* Interesado en seguridad de aplicaciones y APIs.
+* Construyendo proyectos para fortalecer mi portafolio.
+* Preparándome para desarrollarme profesionalmente en tecnología.
 
 ---
 
@@ -169,17 +139,6 @@ Aplicación Full Stack orientada a la gestión de un teatro, incluyendo usuarios
 
 `.NET` `C#` `React` `TypeScript` `PostgreSQL`
 
-**Características**
-
-* 🔐 Autenticación y autorización.
-* 👤 Gestión de usuarios y roles.
-* 🎭 Gestión de funciones.
-* 💺 Selección de asientos.
-* 🎟️ Creación de reservas.
-* 💳 Procesamiento de pagos.
-* 🗄️ Persistencia con PostgreSQL.
-* 🌐 API REST.
-
 </td>
 
 <td width="50%" valign="top">
@@ -210,7 +169,7 @@ Proyecto orientado al estudio y aplicación de conceptos de seguridad informáti
 
 <td width="50%" valign="top">
 
-### 🧠 Machine Learning
+### Machine Learning
 
 Proyectos orientados al aprendizaje y experimentación con modelos de Machine Learning.
 
@@ -228,28 +187,6 @@ Proyectos orientados al aprendizaje y experimentación con modelos de Machine Le
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🌐 APIs Backend
-
-Desarrollo de APIs REST para aplicaciones web utilizando diferentes tecnologías Backend.
-
-**Tecnologías**
-
-`.NET` `C#` `Node.js` `Express`
-
-**Conceptos aplicados**
-
-* Arquitectura por capas.
-* Endpoints REST.
-* CRUD.
-* Middleware.
-* Autenticación.
-* Validación de datos.
-* Manejo de errores.
-* Integración con bases de datos.
-
-</td>
 
 </tr>
 </table>
