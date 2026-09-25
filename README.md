@@ -8,7 +8,6 @@
   <a href="https://github.com/Francisco Barraza">
     <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=1f6feb">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=58a6ff&label=VISITAS">
 </p>
 
 </div>
