@@ -70,12 +70,3 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,linux" />
 </p>
 
-
-
-<br/>
-
-*"Primero resuelve el problema. Después escribe el código."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-</div>
