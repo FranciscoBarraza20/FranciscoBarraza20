@@ -61,6 +61,6 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,linux" />
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virtualbox.svg" height="48" style="background-color:#22272e;border-radius:8px;padding:6px;" alt="VirtualBox"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware.svg" height="48" style="background-color:#22272e;border-radius:8px;padding:6px;" alt="VMware"/>
 </p>
