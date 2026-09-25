@@ -4,12 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&duration=3000\&pause=900\&color=58A6FF\&center=true\&vCenter=true\&width=700\&lines=Desarrollador+Backend+en+formación;Construyendo+con+.NET+%2B+C%23;Desarrollando+APIs+con+Node.js+%2B+Express;Explorando+Ciberseguridad+%F0%9F%94%90;Aprendiendo+Machine+Learning+%F0%9F%A4%96;Transformando+ideas+en+soluciones)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://github.com/Francisco Barraza">
-    <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=1f6feb">
-  </a>
-</p>
-
 </div>
 
 ---
