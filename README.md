@@ -69,24 +69,6 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,linux" />
 </p>
 
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=franciscobarraza&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=9D4EDD&icon_color=f97316&text_color=e6edf3&count_private=true&include_all_commits=true"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarraza&layout=compact&hide_border=true&bg_color=0f0c29&title_color=9D4EDD&text_color=e6edf3&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=franciscobarraza\&theme=github-dark-blue\&hide_border=true\&background=0F0C29\&stroke=302B63\&ring=9D4EDD\&fire=F97316\&currStreakLabel=E6EDF3\&sideLabels=8B949E\&dates=8B949E)](https://git.io/streak-stats)
-
-</div>
-
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=franciscobarraza&bg_color=0f0c29&color=9D4EDD&line=302b63&point=f97316&area=true&hide_border=true"/>
