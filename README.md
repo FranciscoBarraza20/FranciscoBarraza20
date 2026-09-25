@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d2d2d,100:404040&height=200&section=header&text=Francisco%20Barraza&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniería%20en%20Computación%20e%20Informática&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&duration=3000\&pause=900\&color=ffffff\&center=true\&vCenter=true\&width=650\&lines=Desarrollador+Full+Stack+en+formación;Explorando+Machine+Learning;Interesado+en+Ciberseguridad;Transformando+ideas+en+soluciones;commit+-m+%22keep+growing%22+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&duration=3000\&pause=900\&color=ffffff\&center=true\&vCenter=true\&width=650\&lines=Desarrollador+Full+Stack+en+formación;Explorando+Machine+Learning;Interesado+en+Ciberseguridad;Transformando+ideas+en+soluciones)](https://git.io/typing-svg)
 
 </div>
 
