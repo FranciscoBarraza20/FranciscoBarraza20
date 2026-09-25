@@ -1,1 +1,94 @@
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Francisco%20Barraza&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniería%20en%20Computación%20e%20Informática&descAlignY=58&descSize=18"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&duration=3000\&pause=900\&color=9D4EDD\&center=true\&vCenter=true\&width=650\&lines=Desarrollador+Full+Stack+en+formación;Explorando+Machine+Learning;Interesado+en+Ciberseguridad;Transformando+ideas+en+soluciones;commit+-m+%22keep+growing%22+🚀)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://github.com/franciscobarraza">
+    <img src="https://img.shields.io/github/followers/franciscobarraza?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=9D4EDD">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=franciscobarraza&style=for-the-badge&color=9D4EDD&label=VISITAS">
+</p>
+
+</div>
+
+---
+
+## Sobre mí
+
+Soy estudiante de **Ingeniería en Computación e Informática** y me apasiona transformar problemas reales en soluciones mediante software.
+
+Actualmente estoy fortaleciendo mis conocimientos en desarrollo **Full Stack**, construyendo aplicaciones con **React**, **TypeScript**, **.NET**, **C#**, **Node.js** y bases de datos relacionales, mientras profundizo en **Machine Learning** y **Ciberseguridad**.
+
+Me interesa escribir código que no solamente funcione, sino que también sea **claro, mantenible, seguro y escalable**.
+
+---
+
+## Actualmente
+
+* Desarrollando aplicaciones web Full Stack.
+* Aprendiendo Machine Learning con Python y Jupyter Notebook.
+* Profundizando en Ciberseguridad.
+* Vi fundamentos de Aprendizaje por Refuerzo.
+* Aplicando principios SOLID, Clean Code y separación de responsabilidades.
+* Buscando crecer profesionalmente como desarrollador Full Stack.
+
+---
+
+## 🛠️ Tecnologías
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
+</p>
+
+### Machine Learning & Datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,jupyter" />
+</p>
+
+### Bases de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/>
+</p>
+
+### Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,linux" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=franciscobarraza&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=9D4EDD&icon_color=f97316&text_color=e6edf3&count_private=true&include_all_commits=true"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarraza&layout=compact&hide_border=true&bg_color=0f0c29&title_color=9D4EDD&text_color=e6edf3&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=franciscobarraza\&theme=github-dark-blue\&hide_border=true\&background=0F0C29\&stroke=302B63\&ring=9D4EDD\&fire=F97316\&currStreakLabel=E6EDF3\&sideLabels=8B949E\&dates=8B949E)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=franciscobarraza&bg_color=0f0c29&color=9D4EDD&line=302b63&point=f97316&area=true&hide_border=true"/>
+
+</div>
