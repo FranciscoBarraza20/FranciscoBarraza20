@@ -57,10 +57,16 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/>
 </p>
 
-### Herramientas
+### Herramientas de desarrollo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,linux" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virtualbox.svg" height="48" style="background-color:#22272e;border-radius:8px;padding:6px;" alt="VirtualBox"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware.svg" height="48" style="background-color:#22272e;border-radius:8px;padding:6px;" alt="VMware"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" />
+</p>
+
+### Herramientas de ciberseguridad
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virtualbox.svg" height="48" alt="VirtualBox"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware.svg" height="48" alt="VMware"/>
 </p>
