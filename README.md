@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy estudiante de **Ingeniería en Computación e Informática**, interesado en comprender cómo se construyen, protegen y mejoran los sistemas de software.
 
