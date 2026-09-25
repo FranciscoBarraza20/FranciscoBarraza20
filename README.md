@@ -15,34 +15,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
-
-```typescript
-const francisco = {
-  nombre: "Francisco Barraza",
-  carrera: "Ingeniería en Computación e Informática",
-  ubicacion: "Chile 🇨🇱",
-
-  perfil: {
-    frontend: ["React", "TypeScript", "Tailwind CSS"],
-    backend: [".NET", "C#", "Node.js", "Express"],
-    basesDeDatos: ["PostgreSQL", "SQL", "Oracle"],
-    dataYML: ["Python", "Jupyter Notebook"],
-    herramientas: ["Git", "GitHub", "Postman", "Docker", "Linux"]
-  },
-
-  intereses: [
-    "Machine Learning",
-    "Ciberseguridad",
-    "Desarrollo Full Stack",
-    "Arquitectura de software",
-    "Diseño de APIs"
-  ],
-
-  objetivo: "Crear soluciones útiles, seguras y escalables",
-  estadoActual: "Aprendiendo, construyendo y mejorando cada día 🚀"
-};
-```
+## Sobre mí
 
 Soy estudiante de **Ingeniería en Computación e Informática** y me apasiona transformar problemas reales en soluciones mediante software.
 
@@ -52,18 +25,18 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
 
 ---
 
-## 🚀 Actualmente
+## Actualmente
 
-* 🔭 Desarrollando aplicaciones web Full Stack.
-* 🤖 Aprendiendo Machine Learning con Python y Jupyter Notebook.
-* 🔐 Profundizando en Ciberseguridad.
-* 🧠 Vi fundamentos de Aprendizaje por Refuerzo.
-* 🛠️ Aplicando principios SOLID, Clean Code y separación de responsabilidades.
-* 🎯 Buscando crecer profesionalmente como desarrollador Full Stack.
+* Desarrollando aplicaciones web Full Stack.
+* Aprendiendo Machine Learning con Python y Jupyter Notebook.
+* Profundizando en Ciberseguridad.
+* Vi fundamentos de Aprendizaje por Refuerzo.
+* Aplicando principios SOLID, Clean Code y separación de responsabilidades.
+* Buscando crecer profesionalmente como desarrollador Full Stack, ingeniero de Ciberseguridad o ingeniero de Machine Learniing.
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 ### Frontend
 
@@ -97,104 +70,7 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,linux" />
 </p>
 
----
 
-## 🗺️ Roadmap de aprendizaje
-
-| Área                   |      Estado      | Tecnologías                     |
-| :--------------------- | :--------------: | :------------------------------ |
-| Desarrollo frontend    |     ✅ En uso     | React, TypeScript, Tailwind CSS |
-| Desarrollo backend     |     ✅ En uso     | .NET, C#, Node.js               |
-| Bases de datos         | 🟡 Profundizando | PostgreSQL, Oracle, SQL         |
-| Machine Learning       |  🟡 Aprendiendo  | Python, Jupyter, Aprendizaje por Refuerzo |
-| Ciberseguridad         |  🟡 Aprendiendo  | Fundamentos, buenas prácticas   |
-| Arquitectura           |  🟡 Aprendiendo  | MVC, CQRS, Clean Architecture   |
-| Contenedores           |  🟠 Próximamente | Docker                          |
-| Sistemas y rendimiento |     🔭 Futuro    | Go, Rust                        |
-
-```text
-Frontend       █████████████████░░░  85%
-Backend .NET   ████████████████░░░░  80%
-Python / ML    ███████████░░░░░░░░░  55%
-Ciberseguridad ██████████░░░░░░░░░░  50%
-SQL            ███████████████░░░░░  75%
-Arquitectura   ███████████░░░░░░░░░  55%
-```
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=franciscobarraza&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=9D4EDD&icon_color=f97316&text_color=e6edf3&count_private=true&include_all_commits=true"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobarraza&layout=compact&hide_border=true&bg_color=0f0c29&title_color=9D4EDD&text_color=e6edf3&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=franciscobarraza\&theme=github-dark-blue\&hide_border=true\&background=0F0C29\&stroke=302B63\&ring=9D4EDD\&fire=F97316\&currStreakLabel=E6EDF3\&sideLabels=8B949E\&dates=8B949E)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=franciscobarraza&bg_color=0f0c29&color=9D4EDD&line=302b63&point=f97316&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Logros de GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=franciscobarraza&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
-</div>
-
----
-
-## 🧩 Mi forma de trabajar
-
-```csharp
-public class Developer
-{
-    public string Name { get; } = "Francisco Barraza";
-
-    public void BuildSolution()
-    {
-        UnderstandTheProblem();
-        DesignBeforeCoding();
-        WriteCleanCode();
-        TestTheSolution();
-        LearnFromMistakes();
-        ImproveContinuously();
-    }
-}
-```
-
-> No busco solamente hacer que el código funcione.
-> Busco entender el problema, diseñar una buena solución y mejorar con cada proyecto.
-
----
-
-## 🤝 Contacto
-
-<div align="center">
-
-¿Tienes una idea, proyecto o simplemente quieres conversar sobre tecnología?
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge\&logo=github\&logoColor=e6edf3)](https://github.com/franciscobarraza)
-[![Gmail](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:francisco.barraza@example.com)
-
-<br/>
-
-### 💬 Siempre abierto a aprender, colaborar y construir nuevas ideas.
 
 <br/>
 
