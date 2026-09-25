@@ -34,7 +34,7 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" />
 </p>
 
 ### Backend
