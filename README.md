@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d2d2d,100:404040&height=200&section=header&text=Francisco%20Barraza&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniería%20en%20Computación%20e%20Informática&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&duration=3000\&pause=900\&color=ffffff\&center=true\&vCenter=true\&width=650\&lines=Desarrollador+Full+Stack+en+formación;Explorando+Machine+Learning;Interesado+en+Ciberseguridad;Transformando+ideas+en+soluciones)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&duration=3000\&pause=900\&color=9D4EDD\&center=true\&vCenter=true\&width=650\&lines=Desarrollador+Full+Stack+en+formación;Explorando+Machine+Learning;Interesado+en+Ciberseguridad;Transformando+ideas+en+soluciones;commit+-m+%22keep+growing%22+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +25,7 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
 * Profundizando en Ciberseguridad.
 * Vi fundamentos de Aprendizaje por Refuerzo.
 * Aplicando principios SOLID, Clean Code y separación de responsabilidades.
-* Buscando crecer profesionalmente como desarrollador Full Stack, ingeniero de Ciberseguridad o ingeniero de Machine Learning.
+* Buscando crecer profesionalmente como desarrollador Full Stack, ingeniero de Ciberseguridad o ingeniero de Machine Learniing.
 
 ---
 
@@ -61,4 +61,6 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,linux" />
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="48"/>
 </p>
