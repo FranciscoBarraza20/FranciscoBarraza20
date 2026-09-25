@@ -81,7 +81,7 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="52" style="background-color:white;border-radius:8px;padding:4px;" alt="Jupyter"/>
 </p>
 
 ### Bases de datos
@@ -201,10 +201,5 @@ public class Developer
 *"Primero resuelve el problema. Después escribe el código."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-</div>
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=franciscobarraza&bg_color=0f0c29&color=9D4EDD&line=302b63&point=f97316&area=true&hide_border=true"/>
 
 </div>
