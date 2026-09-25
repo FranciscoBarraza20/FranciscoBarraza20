@@ -67,6 +67,6 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virtualbox.svg" height="48" alt="VirtualBox"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware.svg" height="48" alt="VMware"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/virtualbox.png" height="48" alt="VirtualBox"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware.png" height="48" alt="VMware"/>
 </p>
