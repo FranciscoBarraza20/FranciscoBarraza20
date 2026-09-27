@@ -69,3 +69,7 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/virtualbox.png" height="48" alt="VirtualBox"/>
 </p>
+
+### Certificaciones
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4db0b831-8d87-4e65-a928-1bf4e7579144" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
