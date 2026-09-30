@@ -1,13 +1,7 @@
 <div align="center">
-
 <img width="1230" height="466" alt="github" src="https://github.com/user-attachments/assets/47f3a320-bfbc-4e6e-8841-3f671c3dd631" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&duration=3000\&pause=900\&color=ffffff\&center=true\&vCenter=true\&width=650\&lines=Desarrollador+Full+Stack+en+formación;Explorando+Machine+Learning;Interesado+en+Ciberseguridad;Transformando+ideas+en+soluciones;commit+-m+%22Mantenerse-enfocado%22+)](https://git.io/typing-svg)
-
 </div>
-
 ---
-
 ## Sobre mí
 
 Soy estudiante de **Ingeniería en Computación e Informática** y me apasiona transformar problemas reales en soluciones mediante software.
