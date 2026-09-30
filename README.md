@@ -1,7 +1,9 @@
 <div align="center">
 <img width="1230" height="466" alt="github" src="https://github.com/user-attachments/assets/47f3a320-bfbc-4e6e-8841-3f671c3dd631" />
 </div>
+
 ---
+
 ## Sobre mí
 
 Soy estudiante de **Ingeniería en Computación e Informática** y me apasiona transformar problemas reales en soluciones mediante software.
