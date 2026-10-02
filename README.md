@@ -14,7 +14,7 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
 
 ---
 
-### Certificaciones
+## Certificaciones
 
 <img width="222" height="222" alt="introduction-to-cybersecurity" src="https://github.com/user-attachments/assets/21d45564-696e-4236-86d6-a58162dbbe2e" />
 
