@@ -22,86 +22,78 @@ Desarrollando habilidades full stack en Node.js con Express y ASP.NET CORE como 
 
 ## Tecnologías
 
-<div align="center">
-
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 ### Frontend
 
 | Tecnología | Icono |
 |---|:---:|
-| React | <img src="https://skillicons.dev/icons?i=react" width="35"> |
-| TypeScript | <img src="https://skillicons.dev/icons?i=typescript" width="35"> |
-| JavaScript | <img src="https://skillicons.dev/icons?i=javascript" width="35"> |
-| HTML5 | <img src="https://skillicons.dev/icons?i=html" width="35"> |
-| CSS3 | <img src="https://skillicons.dev/icons?i=css" width="35"> |
+| React | <img src="https://skillicons.dev/icons?i=react" width="30"> |
+| TypeScript | <img src="https://skillicons.dev/icons?i=typescript" width="30"> |
+| JavaScript | <img src="https://skillicons.dev/icons?i=javascript" width="30"> |
+| HTML5 | <img src="https://skillicons.dev/icons?i=html" width="30"> |
+| CSS3 | <img src="https://skillicons.dev/icons?i=css" width="30"> |
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
 ### Backend
 
 | Tecnología | Icono |
 |---|:---:|
-| .NET | <img src="https://skillicons.dev/icons?i=dotnet" width="35"> |
-| C# | <img src="https://skillicons.dev/icons?i=cs" width="35"> |
-| Node.js | <img src="https://skillicons.dev/icons?i=nodejs" width="35"> |
-| Express | <img src="https://skillicons.dev/icons?i=express" width="35"> |
+| .NET | <img src="https://skillicons.dev/icons?i=dotnet" width="30"> |
+| C# | <img src="https://skillicons.dev/icons?i=cs" width="30"> |
+| Node.js | <img src="https://skillicons.dev/icons?i=nodejs" width="30"> |
+| Express | <img src="https://skillicons.dev/icons?i=express" width="30"> |
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 ### Machine Learning y datos
 
 | Tecnología | Icono |
 |---|:---:|
-| Python | <img src="https://skillicons.dev/icons?i=python" width="35"> |
-| Jupyter Notebook | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="35"> |
+| Python | <img src="https://skillicons.dev/icons?i=python" width="30"> |
+| Jupyter | <img src="https://skillicons.dev/icons?i=jupyter" width="30"> |
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
 ### Bases de datos
 
 | Tecnología | Icono |
 |---|:---:|
-| PostgreSQL | <img src="https://skillicons.dev/icons?i=postgres" width="35"> |
-| MySQL | <img src="https://skillicons.dev/icons?i=mysql" width="35"> |
-| SQLite | <img src="https://skillicons.dev/icons?i=sqlite" width="35"> |
-| Oracle | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"> |
+| PostgreSQL | <img src="https://skillicons.dev/icons?i=postgres" width="30"> |
+| MySQL | <img src="https://skillicons.dev/icons?i=mysql" width="30"> |
+| SQLite | <img src="https://skillicons.dev/icons?i=sqlite" width="30"> |
+| Oracle | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30"> |
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 ### Herramientas de desarrollo
 
 | Tecnología | Icono |
 |---|:---:|
-| Git | <img src="https://skillicons.dev/icons?i=git" width="35"> |
-| GitHub | <img src="https://skillicons.dev/icons?i=github" width="35"> |
-| Docker | <img src="https://skillicons.dev/icons?i=docker" width="35"> |
-| Postman | <img src="https://skillicons.dev/icons?i=postman" width="35"> |
-| VS Code | <img src="https://skillicons.dev/icons?i=vscode" width="35"> |
-| Visual Studio | <img src="https://skillicons.dev/icons?i=visualstudio" width="35"> |
+| Git | <img src="https://skillicons.dev/icons?i=git" width="30"> |
+| GitHub | <img src="https://skillicons.dev/icons?i=github" width="30"> |
+| Docker | <img src="https://skillicons.dev/icons?i=docker" width="30"> |
+| Postman | <img src="https://skillicons.dev/icons?i=postman" width="30"> |
+| VS Code | <img src="https://skillicons.dev/icons?i=vscode" width="30"> |
+| Visual Studio | <img src="https://skillicons.dev/icons?i=visualstudio" width="30"> |
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
-### Herramientas de ciberseguridad
+### Ciberseguridad
 
 | Tecnología | Icono |
 |---|:---:|
-| Linux | <img src="https://skillicons.dev/icons?i=linux" width="35"> |
-| VirtualBox | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/virtualbox.png" width="35"> |
+| Linux | <img src="https://skillicons.dev/icons?i=linux" width="30"> |
+| VirtualBox | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/virtualbox.png" width="30"> |
 
 </td>
 </tr>
 </table>
-
-</div>
