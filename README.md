@@ -4,13 +4,4 @@
 
 ---
 
-## Sobre mí
-
-Soy estudiante de **Ingeniería en Computación e Informática** y me apasiona transformar problemas reales en soluciones mediante software.
-
-Actualmente estoy fortaleciendo mis conocimientos en desarrollo **Full Stack**, construyendo aplicaciones con **React**, **TypeScript**, **.NET**, **C#**, **Node.js** y bases de datos relacionales, mientras profundizo en **Machine Learning** y **Ciberseguridad**.
-
-
----
-
 
