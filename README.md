@@ -10,7 +10,6 @@ Soy estudiante de **Ingeniería en Computación e Informática** y me apasiona t
 
 Actualmente estoy fortaleciendo mis conocimientos en desarrollo **Full Stack**, construyendo aplicaciones con **React**, **TypeScript**, **.NET**, **C#**, **Node.js** y bases de datos relacionales, mientras profundizo en **Machine Learning** y **Ciberseguridad**.
 
-Me interesa escribir código que no solamente funcione, sino que también sea **claro, mantenible, seguro y escalable**.
 
 ---
 
