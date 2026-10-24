@@ -24,39 +24,53 @@ Desarrollando habilidades full stack en Node.js con Express y ASP.NET CORE como 
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" />
-</p>
+| Tecnología | Icono |
+|---|:---:|
+| React | ![React](https://skillicons.dev/icons?i=react) |
+| TypeScript | ![TypeScript](https://skillicons.dev/icons?i=typescript) |
+| JavaScript | ![JavaScript](https://skillicons.dev/icons?i=javascript) |
+| HTML5 | ![HTML5](https://skillicons.dev/icons?i=html) |
+| CSS3 | ![CSS3](https://skillicons.dev/icons?i=css) |
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,expressjs" />
-</p>
+| Tecnología | Icono |
+|---|:---:|
+| .NET | ![.NET](https://skillicons.dev/icons?i=dotnet) |
+| C# | ![C#](https://skillicons.dev/icons?i=cs) |
+| Node.js | ![Node.js](https://skillicons.dev/icons?i=nodejs) |
+| Express | ![Express](https://skillicons.dev/icons?i=express) |
 
-### Machine Learning & Datos
+### Machine Learning y datos
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="52" style="background-color:white;border-radius:8px;padding:4px;" alt="Jupyter"/>
-</p>
+| Tecnología | Icono |
+|---|:---:|
+| Python | ![Python](https://skillicons.dev/icons?i=python) |
+| Jupyter Notebook | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" alt="Jupyter Notebook" /> |
 
 ### Bases de datos
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/>
-</p>
+| Tecnología | Icono |
+|---|:---:|
+| PostgreSQL | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
+| MySQL | ![MySQL](https://skillicons.dev/icons?i=mysql) |
+| SQLite | ![SQLite](https://skillicons.dev/icons?i=sqlite) |
+| Oracle Database | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle Database" /> |
 
 ### Herramientas de desarrollo
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" />
-</p>
+| Tecnología | Icono |
+|---|:---:|
+| Git | ![Git](https://skillicons.dev/icons?i=git) |
+| GitHub | ![GitHub](https://skillicons.dev/icons?i=github) |
+| Docker | ![Docker](https://skillicons.dev/icons?i=docker) |
+| Postman | ![Postman](https://skillicons.dev/icons?i=postman) |
+| Visual Studio Code | ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) |
+| Visual Studio | ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) |
 
 ### Herramientas de ciberseguridad
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/virtualbox.png" height="48" alt="VirtualBox"/>
-</p>
+| Tecnología | Icono |
+|---|:---:|
+| Linux | ![Linux](https://skillicons.dev/icons?i=linux) |
+| VirtualBox | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/virtualbox.png" width="40" alt="VirtualBox" /> |
