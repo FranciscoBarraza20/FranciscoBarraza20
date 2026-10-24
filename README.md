@@ -16,12 +16,7 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
 
 ## Actualmente
 
-Desarrollando aplicaciones web Full Stack.
-Aprendiendo Machine Learning con Python y Jupyter Notebook.
-Profundizando en Ciberseguridad.
-Vi fundamentos de Aprendizaje por Refuerzo.
-Aplicando principios SOLID, Clean Code y separación de responsabilidades.
-Buscando crecer profesionalmente como desarrollador Full Stack, ingeniero de Ciberseguridad o ingeniero de Machine Learniing.
+Desarrollando habilidades full stack en Node.js con Express y ASP.NET CORE como frameworks de desarrollo de software, adquiriendo conocimientos en Ciberseguridad e investigando conceptos de Machine Learning.
 ---
 
 ## Tecnologías
