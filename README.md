@@ -22,55 +22,86 @@ Desarrollando habilidades full stack en Node.js con Express y ASP.NET CORE como 
 
 ## Tecnologías
 
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Frontend
 
 | Tecnología | Icono |
 |---|:---:|
-| React | ![React](https://skillicons.dev/icons?i=react) |
-| TypeScript | ![TypeScript](https://skillicons.dev/icons?i=typescript) |
-| JavaScript | ![JavaScript](https://skillicons.dev/icons?i=javascript) |
-| HTML5 | ![HTML5](https://skillicons.dev/icons?i=html) |
-| CSS3 | ![CSS3](https://skillicons.dev/icons?i=css) |
+| React | <img src="https://skillicons.dev/icons?i=react" width="35"> |
+| TypeScript | <img src="https://skillicons.dev/icons?i=typescript" width="35"> |
+| JavaScript | <img src="https://skillicons.dev/icons?i=javascript" width="35"> |
+| HTML5 | <img src="https://skillicons.dev/icons?i=html" width="35"> |
+| CSS3 | <img src="https://skillicons.dev/icons?i=css" width="35"> |
+
+</td>
+<td valign="top" width="50%">
 
 ### Backend
 
 | Tecnología | Icono |
 |---|:---:|
-| .NET | ![.NET](https://skillicons.dev/icons?i=dotnet) |
-| C# | ![C#](https://skillicons.dev/icons?i=cs) |
-| Node.js | ![Node.js](https://skillicons.dev/icons?i=nodejs) |
-| Express | ![Express](https://skillicons.dev/icons?i=express) |
+| .NET | <img src="https://skillicons.dev/icons?i=dotnet" width="35"> |
+| C# | <img src="https://skillicons.dev/icons?i=cs" width="35"> |
+| Node.js | <img src="https://skillicons.dev/icons?i=nodejs" width="35"> |
+| Express | <img src="https://skillicons.dev/icons?i=express" width="35"> |
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 ### Machine Learning y datos
 
 | Tecnología | Icono |
 |---|:---:|
-| Python | ![Python](https://skillicons.dev/icons?i=python) |
-| Jupyter Notebook | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" alt="Jupyter Notebook" /> |
+| Python | <img src="https://skillicons.dev/icons?i=python" width="35"> |
+| Jupyter Notebook | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="35"> |
+
+</td>
+<td valign="top" width="50%">
 
 ### Bases de datos
 
 | Tecnología | Icono |
 |---|:---:|
-| PostgreSQL | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
-| MySQL | ![MySQL](https://skillicons.dev/icons?i=mysql) |
-| SQLite | ![SQLite](https://skillicons.dev/icons?i=sqlite) |
-| Oracle Database | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle Database" /> |
+| PostgreSQL | <img src="https://skillicons.dev/icons?i=postgres" width="35"> |
+| MySQL | <img src="https://skillicons.dev/icons?i=mysql" width="35"> |
+| SQLite | <img src="https://skillicons.dev/icons?i=sqlite" width="35"> |
+| Oracle | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"> |
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 ### Herramientas de desarrollo
 
 | Tecnología | Icono |
 |---|:---:|
-| Git | ![Git](https://skillicons.dev/icons?i=git) |
-| GitHub | ![GitHub](https://skillicons.dev/icons?i=github) |
-| Docker | ![Docker](https://skillicons.dev/icons?i=docker) |
-| Postman | ![Postman](https://skillicons.dev/icons?i=postman) |
-| Visual Studio Code | ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) |
-| Visual Studio | ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) |
+| Git | <img src="https://skillicons.dev/icons?i=git" width="35"> |
+| GitHub | <img src="https://skillicons.dev/icons?i=github" width="35"> |
+| Docker | <img src="https://skillicons.dev/icons?i=docker" width="35"> |
+| Postman | <img src="https://skillicons.dev/icons?i=postman" width="35"> |
+| VS Code | <img src="https://skillicons.dev/icons?i=vscode" width="35"> |
+| Visual Studio | <img src="https://skillicons.dev/icons?i=visualstudio" width="35"> |
+
+</td>
+<td valign="top" width="50%">
 
 ### Herramientas de ciberseguridad
 
 | Tecnología | Icono |
 |---|:---:|
-| Linux | ![Linux](https://skillicons.dev/icons?i=linux) |
-| VirtualBox | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/virtualbox.png" width="40" alt="VirtualBox" /> |
+| Linux | <img src="https://skillicons.dev/icons?i=linux" width="35"> |
+| VirtualBox | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/virtualbox.png" width="35"> |
+
+</td>
+</tr>
+</table>
+
+</div>
