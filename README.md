@@ -27,7 +27,7 @@ Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autentica
 
 **ASTRAL**
 
-Desarrollo aplicaciones web utilizando Node.js con express y C# con .NET CORE como frameworks, ampliando conocimientos de Ciberseguridad y en Machine Learning
+Desarrollo de un proyecto de Machine Learning mediante un sistema de clasificación de imágenes de exoplanetas y de estrellas permite mediante caracteristicas comparar similitudes con el planeta Tierra.
 
 Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autenticación JWT) y **ASTRAL** (detector de anomalías con ML).
 
