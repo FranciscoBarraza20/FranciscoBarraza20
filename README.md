@@ -27,9 +27,9 @@ Ahora mismo ando investigando y desarrollando proyecto de Machine Learning llama
 
 **ASTRAL**
 
-Desarrollo de un proyecto de Machine Learning mediante un sistema de clasificación de imágenes de exoplanetas y de estrellas permite mediante caracteristicas comparar similitudes con el planeta Tierra.
+Desarrollo de un proyecto de Machine Learning para la identificación de exoplanetas análogos a la Tierra a partir de sus características físicas, usando catálogos de la NASA y Gaia.
+Combina modelos de similitud, simulación Monte Carlo de zona habitable y una red neuronal en PyTorch.
 
-Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autenticación JWT) y **ASTRAL** (detector de anomalías con ML).
 
 </td>
     <td width="25%" align="center" valign="middle">
@@ -44,7 +44,10 @@ Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autentica
 
 **ORGANIZADOR CURRICULAR INTELIGENTE**
 
-Desarrollo aplicaciones web utilizando Node.js con express y C# con .NET CORE como frameworks, ampliando conocimientos de Ciberseguridad y en Machine Learning
+Desarrollo aplicaciones web full-stack para la Gestión académica universitaria: malla curricular, asignaturas, calificaciones por semestre y calendario de eventos.
+Importación automática de horarios desde Excel mediante IA.
+Autenticación local y con Google, con personalización de temas y datos por usuario.
+
 
 Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autenticación JWT) y **ASTRAL** (detector de anomalías con ML).
 
@@ -61,7 +64,10 @@ Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autentica
 
 **TEATRO LA DIVINE**
 
-Desarrollo aplicaciones web utilizando Node.js con express y C# con .NET CORE como frameworks, ampliando conocimientos de Ciberseguridad y en Machine Learning
+Aplicación web full-stack para la gestión de carteleras, con selección interactiva de asientos y procesamiento de compras en línea.
+Generación automática de entradas en formato PDF.
+Panel administrativo para el control de funciones.
+
 
 Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autenticación JWT) y **ASTRAL** (detector de anomalías con ML).
 
