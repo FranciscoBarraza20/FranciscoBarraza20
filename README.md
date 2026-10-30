@@ -12,9 +12,9 @@
 
 Desarrollo aplicaciones web con **Node.js (Express)** y **C# (.NET Core)**, y estoy profundizando en **Ciberseguridad** y **Machine Learning**.
 
-- 🔭 Actualmente desarrollo **Astral**, un proyecto de ML para identificar exoplanetas análogos a la Tierra
-- 🔐 Estudiando Ciberseguridad con Cisco Networking Academy
-- 📍 Antofagasta, Chile
+- Actualmente desarrollo **Astral**, un proyecto de ML para identificar exoplanetas análogos a la Tierra
+- Estudiando Ciberseguridad con Cisco Networking Academy
+- Antofagasta, Chile
 
     </td>
     <td width="25%" align="center" valign="middle">
@@ -23,18 +23,8 @@ Desarrollo aplicaciones web con **Node.js (Express)** y **C# (.NET Core)**, y es
   </tr>
 </table>
 
-## 🛠️ Stack tecnológico
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <table>
   <tr>
