@@ -27,7 +27,7 @@ Ahora mismo trabajo en **Proyecto1** (API con autenticación JWT) y **Proyecto2*
 
 </td>
     <td width="25%" align="center" valign="middle">
-      <img src="assets/planeta.svg" width="120" alt="Planeta" />
+      <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4b5c218d-0754-44ed-acdb-21d7837ec2a8" />
     </td>
   </tr>
 </table>
