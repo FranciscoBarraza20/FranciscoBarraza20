@@ -42,7 +42,7 @@ Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autentica
   <tr>
     <td width="50%" valign="top">
 
-### Teatro La Divine
+### 🎭 Sistema Teatro La Divine
 
 Sistema Full Stack para la administración de funciones, usuarios, reservas y selección de asientos de un teatro.
 
@@ -66,7 +66,7 @@ Sistema Full Stack para la administración de funciones, usuarios, reservas y se
     </td>
     <td width="50%" valign="top">
 
-### Astral
+### 🧠 Visualizador de Estructuras
 
 Aplicación educativa para visualizar de manera interactiva el funcionamiento de diferentes estructuras de datos.
 
