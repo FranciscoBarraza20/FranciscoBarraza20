@@ -39,7 +39,6 @@ Ahora mismo ando investigando y desarrollando un proyecto de Machine Learning ll
 Desarrollo de un proyecto de Machine Learning para la identificación de exoplanetas análogos a la Tierra a partir de sus características físicas, usando catálogos de la NASA y Gaia.
 Combina modelos de similitud, simulación Monte Carlo de zona habitable y una red neuronal en PyTorch.
 
-`Python` · `PyTorch` · `scikit-learn` · `Astropy` · `pandas` · `NumPy`
 
 <a href="https://github.com/TU_USUARIO/astral"><img src="https://img.shields.io/badge/Ver%20repositorio-0d1117?style=for-the-badge&logo=github" alt="Repo Astral" /></a>
 
@@ -59,7 +58,6 @@ Combina modelos de similitud, simulación Monte Carlo de zona habitable y una re
 Desarrollo de una aplicación web full-stack para la gestión académica universitaria: malla curricular, asignaturas, calificaciones por semestre y calendario de eventos.
 Importación automática de horarios desde Excel mediante IA. Autenticación local y con Google, con personalización de temas y datos por usuario.
 
-`React 19` · `TypeScript` · `Vite` · `.NET 10` · `EF Core` · `PostgreSQL` · `Docker`
 
 <a href="https://github.com/TU_USUARIO/organizador-curricular"><img src="https://img.shields.io/badge/Ver%20repositorio-0d1117?style=for-the-badge&logo=github" alt="Repo Organizador" /></a>
 
@@ -78,7 +76,6 @@ Importación automática de horarios desde Excel mediante IA. Autenticación loc
 
 Aplicación web full-stack para la gestión de carteleras, con selección interactiva de asientos y procesamiento de compras en línea. Generación automática de entradas en formato PDF. Panel administrativo para el control de funciones.
 
-`React 19` · `Tailwind CSS 4` · `.NET 10` · `PostgreSQL` · `QuestPDF` · `SendGrid` · `Cloudinary`
 
 <a href="https://github.com/TU_USUARIO/teatro-la-divine"><img src="https://img.shields.io/badge/Ver%20repositorio-0d1117?style=for-the-badge&logo=github" alt="Repo Teatro" /></a>
 
