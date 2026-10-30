@@ -13,7 +13,7 @@
 
 <br>
 
-## Hola, soy Tu Nombre
+## Hola, soy Tu Francisco Barraza
 
 <table>
   <tr>
@@ -21,9 +21,9 @@
 
 **Desarrollador Full Stack | Ciberseguridad y Machine Learning**
 
-Construyo APIs seguras y aplicaciones web escalables con Node.js y .NET Core, y me apasiona entender cómo se rompen los sistemas para protegerlos mejor.
+Desarrollo aplicaciones web utilizando Node.js con express y C# con .NET CORE como frameworks, ampliando conocimientos de Ciberseguridad y en Machine Learning
 
-Ahora mismo trabajo en **Proyecto1** (API con autenticación JWT) y **Proyecto2** (detector de anomalías con ML).
+Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autenticación JWT) y **ASTRAL** (detector de anomalías con ML).
 
 </td>
     <td width="25%" align="center" valign="middle">
