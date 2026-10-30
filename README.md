@@ -50,7 +50,7 @@ Importación automática de horarios desde Excel mediante IA. Autenticación loc
 
 </td>
     <td width="25%" align="center" valign="middle">
-      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/8fcb3f75-aee1-421f-98b0-a434ce2ac769" />
+      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/f9b45585-9646-4645-8235-ce38a5392c83" />
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@ Aplicación web full-stack para la gestión de carteleras, con selección intera
 
 </td>
     <td width="25%" align="center" valign="middle">
-     <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/45dba567-bd73-4f72-8bbe-3bf97a5afcdf" />
+     <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/ead17fc4-ebe5-49b9-a3db-ca93bd890f2e" />
     </td>
   </tr>
 </table>
