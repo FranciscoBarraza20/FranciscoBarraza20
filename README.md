@@ -38,7 +38,7 @@ Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autentica
 
 </td>
     <td width="25%" align="center" valign="middle">
-      <img width="1280" height="672" alt="image" src="https://github.com/user-attachments/assets/8a441739-c48e-4df3-9368-7ac46d476928" />
+      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/8a441739-c48e-4df3-9368-7ac46d476928" />
     </td>
   </tr>
 </table>
