@@ -1,8 +1,4 @@
-<div align="center">
-  <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/f649d414-1563-416f-b103-90594a61067b" />
-</div>
-
-# Hola, soy Francisco Barraza 👋
+## Hola, soy Tu Francisco Barraza
 
 <table>
   <tr>
@@ -10,15 +6,13 @@
 
 **Estudiante de Ingeniería en Computación e Informática**
 
-Desarrollo aplicaciones web con **Node.js (Express)** y **C# (.NET Core)**, y estoy profundizando en **Ciberseguridad** y **Machine Learning**.
+Desarrollo aplicaciones web utilizando Node.js con express y C# con .NET CORE como frameworks, ampliando conocimientos de Ciberseguridad y en Machine Learning
 
-- Actualmente desarrollo **Astral**, un proyecto de ML para identificar exoplanetas análogos a la Tierra
-- Estudiando Ciberseguridad con Cisco Networking Academy
-- Antofagasta, Chile
+Ahora mismo ando investigando y desarrollando proyecto de Machine Learning llamado Astral, ampliando conocimientos de Ciberseguridad mediante cursos de Cisco Network Academy.
 
-    </td>
+</td>
     <td width="25%" align="center" valign="middle">
-      <img width="100%" alt="foto" src="https://github.com/user-attachments/assets/4b5c218d-0754-44ed-acdb-21d7837ec2a8" />
+      <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4b5c218d-0754-44ed-acdb-21d7837ec2a8" />
     </td>
   </tr>
 </table>
@@ -30,15 +24,15 @@ Desarrollo aplicaciones web con **Node.js (Express)** y **C# (.NET Core)**, y es
   <tr>
     <td width="75%" valign="middle">
 
-### [ASTRAL](https://github.com/TU_USUARIO/astral)
+**ASTRAL**
 
-Proyecto de Machine Learning para identificar exoplanetas análogos a la Tierra a partir de sus características físicas, usando catálogos de la NASA y Gaia. Combina modelos de similitud, simulación Monte Carlo de zona habitable y una red neuronal en PyTorch.
+Desarrollo de un proyecto de Machine Learning para la identificación de exoplanetas análogos a la Tierra a partir de sus características físicas, usando catálogos de la NASA y Gaia.
+Combina modelos de similitud, simulación Monte Carlo de zona habitable y una red neuronal en PyTorch.
 
-`Python` · `PyTorch` · `Monte Carlo` · `NASA Exoplanet Archive` · `Gaia`
 
-    </td>
+</td>
     <td width="25%" align="center" valign="middle">
-      <img width="100%" alt="Astral" src="https://github.com/user-attachments/assets/b5b71044-fbfe-4205-bbe8-3da50d31ec0f" />
+      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/b5b71044-fbfe-4205-bbe8-3da50d31ec0f" />
     </td>
   </tr>
 </table>
@@ -47,15 +41,15 @@ Proyecto de Machine Learning para identificar exoplanetas análogos a la Tierra 
   <tr>
     <td width="75%" valign="middle">
 
-### [ORGANIZADOR CURRICULAR INTELIGENTE](https://github.com/TU_USUARIO/organizador)
+**ORGANIZADOR CURRICULAR INTELIGENTE**
 
-Aplicación web full-stack para la gestión académica universitaria: malla curricular, asignaturas, calificaciones por semestre y calendario de eventos. Importa horarios desde Excel mediante IA y ofrece autenticación local y con Google, con temas y datos personalizados por usuario.
+Desarrollo aplicaciones web full-stack para la Gestión académica universitaria: malla curricular, asignaturas, calificaciones por semestre y calendario de eventos.
+Importación automática de horarios desde Excel mediante IA. Autenticación local y con Google, con personalización de temas y datos por usuario.
 
-`Node.js` · `Express` · `Google OAuth` · `IA`
 
-    </td>
+</td>
     <td width="25%" align="center" valign="middle">
-      <img width="100%" alt="Organizador" src="https://github.com/user-attachments/assets/f9b45585-9646-4645-8235-ce38a5392c83" />
+      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/f9b45585-9646-4645-8235-ce38a5392c83" />
     </td>
   </tr>
 </table>
@@ -64,20 +58,14 @@ Aplicación web full-stack para la gestión académica universitaria: malla curr
   <tr>
     <td width="75%" valign="middle">
 
-### [TEATRO LA DIVINE](https://github.com/TU_USUARIO/teatro)
+**TEATRO LA DIVINE**
 
-Aplicación web full-stack para la gestión de carteleras, con selección interactiva de asientos y compras en línea. Genera entradas en PDF automáticamente e incluye un panel administrativo para el control de funciones.
+Aplicación web full-stack para la gestión de carteleras, con selección interactiva de asientos y procesamiento de compras en línea. Generación automática de entradas en formato PDF. Panel administrativo para el control de funciones.
 
-`Node.js` · `Express` · `PDF` · `Panel admin`
 
-    </td>
+</td>
     <td width="25%" align="center" valign="middle">
-      <img width="100%" alt="Teatro La Divine" src="https://github.com/user-attachments/assets/ead17fc4-ebe5-49b9-a3db-ca93bd890f2e" />
+     <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/ead17fc4-ebe5-49b9-a3db-ca93bd890f2e" />
     </td>
   </tr>
 </table>
-
-## 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@correo.com)
