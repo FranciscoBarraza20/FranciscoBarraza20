@@ -2,144 +2,114 @@
 
 <div align="center">
   <img width="679" height="273" alt="Banner" src="https://github.com/user-attachments/assets/e7e21dea-409a-4d42-8281-e45280190c6f" />
-
-  <h1>Hola, soy Francisco Barraza 👋</h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+e+Inform%C3%A1tica;Desarrollador+Full+Stack+%7C+.NET+%26+Node.js;Machine+Learning+%26+Ciberseguridad" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=flat" alt="Visitas" />
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Antofagasta%2C%20Chile-0d1117?style=flat&logo=googlemaps&logoColor=white" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Antofagasta-Chile-0d1117?style=flat&logo=googlemaps&logoColor=white" alt="Ubicación" />
   <img src="https://img.shields.io/badge/Estado-Disponible-2ea043?style=flat" alt="Disponible" />
 </div>
 
----
-
-## 👤 Sobre mí
-
-Estudiante de **Ingeniería en Computación e Informática** enfocado en construir aplicaciones web completas, desde la interfaz hasta la base de datos. Desarrollo con **Node.js + Express** y **C# / .NET**, y estoy ampliando mis conocimientos en **Ciberseguridad** y **Machine Learning**.
+## Hola, soy Francisco Barraza
 
 <table>
   <tr>
     <td width="75%" valign="middle">
 
-### 🎯 Lo que me mueve
+**Estudiante de Ingeniería en Computación e Informática**
 
-Me interesa resolver problemas reales con software: sistemas bien estructurados, seguros y pensados para quien los usa. Me gusta cruzar áreas distintas, como una app web con IA integrada o un pipeline de datos astronómicos con modelos de ML.
+Desarrollo aplicaciones web utilizando Node.js con Express y C# con .NET Core como frameworks, ampliando conocimientos de Ciberseguridad y en Machine Learning.
+
+Ahora mismo ando investigando y desarrollando un proyecto de Machine Learning llamado Astral, ampliando conocimientos de Ciberseguridad mediante cursos de Cisco Networking Academy.
 
 </td>
     <td width="25%" align="center" valign="middle">
-      <img width="1280" height="960" alt="Foto" src="https://github.com/user-attachments/assets/4b5c218d-0754-44ed-acdb-21d7837ec2a8" />
+      <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4b5c218d-0754-44ed-acdb-21d7837ec2a8" />
     </td>
   </tr>
 </table>
 
----
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="75%" valign="middle">
 
-### 🌌 ASTRAL
-**Machine Learning y ciencia de datos para astronomía**
+**ASTRAL**
 
-Descarga de datos de estrellas y exoplanetas, reconocimiento de fuentes en imágenes FITS, estimación física de habitabilidad y entrenamiento de modelos de screening.
+Desarrollo de un proyecto de Machine Learning para la identificación de exoplanetas análogos a la Tierra a partir de sus características físicas, usando catálogos de la NASA y Gaia.
+Combina modelos de similitud, simulación Monte Carlo de zona habitable y una red neuronal en PyTorch.
 
-**Impacto**
-- Habitabilidad física con Kopparapu + Monte Carlo
-- MLP en PyTorch evaluado con MAE, PR-AUC y ROC-AUC
-- API HTTP local para inferencia
-
-**Stack:** `Python` · `PyTorch` · `scikit-learn` · `Astropy` · `pandas` · `pytest`
-
-**Datos:** Gaia DR3 · SkyView DSS2 · NASA Exoplanet Archive
+`Python` · `PyTorch` · `scikit-learn` · `Astropy` · `pandas` · `NumPy`
 
 <a href="https://github.com/TU_USUARIO/astral"><img src="https://img.shields.io/badge/Ver%20repositorio-0d1117?style=for-the-badge&logo=github" alt="Repo Astral" /></a>
 
 </td>
-    <td width="50%" valign="top">
+    <td width="25%" align="center" valign="middle">
+      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/b5b71044-fbfe-4205-bbe8-3da50d31ec0f" />
+    </td>
+  </tr>
+</table>
 
-### 🎓 Organizador Curricular Inteligente
-**Plataforma Full Stack de organización académica**
+<table>
+  <tr>
+    <td width="75%" valign="middle">
 
-Malla curricular, horario, calendario de eventos y notas por semestre, con personalización visual.
+**ORGANIZADOR CURRICULAR INTELIGENTE**
 
-**Impacto**
-- Importación de malla desde imagen con IA (Gemini)
-- Importación de horarios desde Excel/CSV
-- Login con contraseña y Google OAuth
+Desarrollo de una aplicación web full-stack para la gestión académica universitaria: malla curricular, asignaturas, calificaciones por semestre y calendario de eventos.
+Importación automática de horarios desde Excel mediante IA. Autenticación local y con Google, con personalización de temas y datos por usuario.
 
-**Stack:** `React 19` · `TypeScript` · `Vite` · `.NET 10` · `EF Core` · `PostgreSQL` · `Docker`
+`React 19` · `TypeScript` · `Vite` · `.NET 10` · `EF Core` · `PostgreSQL` · `Docker`
 
 <a href="https://github.com/TU_USUARIO/organizador-curricular"><img src="https://img.shields.io/badge/Ver%20repositorio-0d1117?style=for-the-badge&logo=github" alt="Repo Organizador" /></a>
 
 </td>
+    <td width="25%" align="center" valign="middle">
+      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/f9b45585-9646-4645-8235-ce38a5392c83" />
+    </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="75%" valign="middle">
 
-### 🎭 Teatro La Divine
-**Sistema de administración y reservas para un teatro**
+**TEATRO LA DIVINE**
 
-Gestión de funciones, usuarios, reservas, pagos y selección visual de asientos.
+Aplicación web full-stack para la gestión de carteleras, con selección interactiva de asientos y procesamiento de compras en línea. Generación automática de entradas en formato PDF. Panel administrativo para el control de funciones.
 
-**Impacto**
-- Reservas con código único y expiración automática
-- Entradas en PDF y correos transaccionales
-- Roles Admin/Cliente con autenticación JWT
-
-**Stack:** `React 19` · `Tailwind CSS 4` · `.NET 10` · `PostgreSQL` · `QuestPDF` · `SendGrid` · `Cloudinary`
+`React 19` · `Tailwind CSS 4` · `.NET 10` · `PostgreSQL` · `QuestPDF` · `SendGrid` · `Cloudinary`
 
 <a href="https://github.com/TU_USUARIO/teatro-la-divine"><img src="https://img.shields.io/badge/Ver%20repositorio-0d1117?style=for-the-badge&logo=github" alt="Repo Teatro" /></a>
 
 </td>
-    <td width="50%" valign="top">
-
-### ➕ Próximo proyecto
-**En construcción**
-
-Aquí puedes agregar un cuarto proyecto, por ejemplo uno de ciberseguridad surgido de tu formación con Cisco Networking Academy.
-
-</td>
+    <td width="25%" align="center" valign="middle">
+     <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/ead17fc4-ebe5-49b9-a3db-ca93bd890f2e" />
+    </td>
   </tr>
 </table>
 
----
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
-**Desarrollo Frontend**
+**Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark" alt="Frontend" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark" alt="Frontend" />
 
-**Desarrollo Backend**
+**Backend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,py&theme=dark" alt="Backend" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,py&theme=dark" alt="Backend" />
 
 **Bases de datos y DevOps**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux&theme=dark" alt="DevOps" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux&theme=dark" alt="DevOps" />
 
 **Machine Learning y datos**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy&theme=dark" alt="ML" />
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy&theme=dark" alt="ML" />
 
----
 
-## 📊 Analíticas de GitHub
+## Analíticas de GitHub
 
 <div align="center">
 
@@ -152,32 +122,21 @@ Aquí puedes agregar un cuarto proyecto, por ejemplo uno de ciberseguridad surgi
 
 </div>
 
----
 
-## 🔭 Enfoque actual e intereses
+## Enfoque actual e intereses
 
 ```ts
 const francisco = {
   rol: "Estudiante de Ingeniería en Computación e Informática",
-  trabajandoEn: "Astral: proyecto de Machine Learning para astronomía",
+  trabajandoEn: "Astral: Machine Learning para exoplanetas análogos a la Tierra",
   aprendiendo: ["Ciberseguridad (Cisco Networking Academy)", "Machine Learning"],
   stackPrincipal: ["Node.js", "Express", "C# / .NET", "React", "PostgreSQL"],
-  intereses: ["Astronomía", "Seguridad informática", "IA aplicada"],
   abiertoA: ["Prácticas", "Colaboraciones", "Proyectos open source"],
 };
 ```
 
----
 
-## 🌠 Más allá del código
-
-<!-- Agrega aquí tus pasatiempos con imágenes o simplemente texto: música, deporte, astronomía, videojuegos, etc. -->
-
-Cuando no estoy programando, me gusta explorar temas de astronomía, aprender cosas nuevas de ciberseguridad y seguir mejorando mis proyectos.
-
----
-
-## 📫 Contacto
+## Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
