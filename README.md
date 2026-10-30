@@ -30,7 +30,6 @@ Ahora mismo ando investigando y desarrollando proyecto de Machine Learning llama
 Desarrollo de un proyecto de Machine Learning para la identificación de exoplanetas análogos a la Tierra a partir de sus características físicas, usando catálogos de la NASA y Gaia.
 Combina modelos de similitud, simulación Monte Carlo de zona habitable y una red neuronal en PyTorch.
 
-**TECNOLOGÍAS**
 
 </td>
     <td width="25%" align="center" valign="middle">
@@ -46,11 +45,7 @@ Combina modelos de similitud, simulación Monte Carlo de zona habitable y una re
 **ORGANIZADOR CURRICULAR INTELIGENTE**
 
 Desarrollo aplicaciones web full-stack para la Gestión académica universitaria: malla curricular, asignaturas, calificaciones por semestre y calendario de eventos.
-Importación automática de horarios desde Excel mediante IA.
-Autenticación local y con Google, con personalización de temas y datos por usuario.
-
-
-**TECNOLOGÍAS**
+Importación automática de horarios desde Excel mediante IA. Autenticación local y con Google, con personalización de temas y datos por usuario.
 
 
 </td>
@@ -66,11 +61,8 @@ Autenticación local y con Google, con personalización de temas y datos por usu
 
 **TEATRO LA DIVINE**
 
-Aplicación web full-stack para la gestión de carteleras, con selección interactiva de asientos y procesamiento de compras en línea.
-Generación automática de entradas en formato PDF.
-Panel administrativo para el control de funciones.
+Aplicación web full-stack para la gestión de carteleras, con selección interactiva de asientos y procesamiento de compras en línea. Generación automática de entradas en formato PDF. Panel administrativo para el control de funciones.
 
-**TECNOLOGÍAS**
 
 </td>
     <td width="25%" align="center" valign="middle">
