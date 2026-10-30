@@ -31,9 +31,7 @@ Combina modelos de similitud, simulación Monte Carlo de zona habitable y una re
 
 
 </td>
-    <td width="25%" align="center" valign="middle">
-      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/b5b71044-fbfe-4205-bbe8-3da50d31ec0f" />
-    </td>
+    
   </tr>
 </table>
 
@@ -48,9 +46,7 @@ Importación automática de horarios desde Excel mediante IA. Autenticación loc
 
 
 </td>
-    <td width="25%" align="center" valign="middle">
-      <img width="1280" height="988" alt="image" src="https://github.com/user-attachments/assets/69ec196e-bcfc-4289-8cbf-d7b6f7a4e897" />
-    </td>
+    
   </tr>
 </table>
 
@@ -64,8 +60,6 @@ Aplicación web full-stack para la gestión de carteleras, con selección intera
 
 
 </td>
-    <td width="25%" align="center" valign="middle">
-     <img width="1280" height="988" alt="image" src="https://github.com/user-attachments/assets/f178c6f8-b514-4103-8f7b-0891a6202484" />
-    </td>
+    
   </tr>
 </table>
