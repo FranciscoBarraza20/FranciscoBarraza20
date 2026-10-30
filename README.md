@@ -66,7 +66,7 @@ Aplicación web full-stack para la gestión de carteleras, con selección intera
 
 </td>
     <td width="25%" align="center" valign="middle">
-      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/8a441739-c48e-4df3-9368-7ac46d476928" />
+      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/d97e5f0f-6958-4af0-aa7d-905e4c9d18aa" />
     </td>
   </tr>
 </table>
