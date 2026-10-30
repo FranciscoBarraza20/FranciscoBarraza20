@@ -9,7 +9,7 @@
 
 Desarrollo aplicaciones web utilizando Node.js con express y C# con .NET CORE como frameworks, ampliando conocimientos de Ciberseguridad y en Machine Learning
 
-Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autenticación JWT) y **ASTRAL** (detector de anomalías con ML).
+Ahora mismo ando investigando y desarrollando proyecto de Machine Learning llamado Astral, ampliando conocimientos de Ciberseguridad mediante cursos de Cisco Network Academy.
 
 </td>
     <td width="25%" align="center" valign="middle">
