@@ -87,9 +87,4 @@ Ahora mismo trabajo en **Proyecto1** (API con autenticación JWT) y **Proyecto2*
   </tr>
 </table>
 
-## Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</div>
