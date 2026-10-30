@@ -33,7 +33,7 @@ Combina modelos de similitud, simulación Monte Carlo de zona habitable y una re
 
 </td>
     <td width="25%" align="center" valign="middle">
-      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/8a441739-c48e-4df3-9368-7ac46d476928" />
+      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/b5b71044-fbfe-4205-bbe8-3da50d31ec0f" />
     </td>
   </tr>
 </table>
