@@ -28,5 +28,20 @@ Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autentica
 
 ## Proyectos destacados
 
+<table>
+  <tr>
+    <td width="75%" valign="middle">
 
+**ASTRAL**
+
+Desarrollo aplicaciones web utilizando Node.js con express y C# con .NET CORE como frameworks, ampliando conocimientos de Ciberseguridad y en Machine Learning
+
+Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autenticación JWT) y **ASTRAL** (detector de anomalías con ML).
+
+</td>
+    <td width="25%" align="center" valign="middle">
+      <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4b5c218d-0754-44ed-acdb-21d7837ec2a8" />
+    </td>
+  </tr>
+</table>
 
