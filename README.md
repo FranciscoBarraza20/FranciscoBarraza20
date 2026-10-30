@@ -18,5 +18,7 @@ Me interesa escribir código que no solamente funcione, sino que también sea **
 
 Desarrollando habilidades full stack en Node.js con Express y ASP.NET CORE como frameworks de desarrollo de software, adquiriendo conocimientos en Ciberseguridad e investigando conceptos de Machine Learning.
 
----
+## Proyectos
+
+- Teatro la Divine
 
