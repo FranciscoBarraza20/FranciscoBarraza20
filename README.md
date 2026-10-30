@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="700" height="768" alt="portadaGithub" src="https://github.com/user-attachments/assets/ff454072-d44b-4a85-9b60-32d18091e8dc" />
+  <img width="1000" height="500" alt="portadaGithub" src="https://github.com/user-attachments/assets/ff454072-d44b-4a85-9b60-32d18091e8dc" />
 </div>
 
 
