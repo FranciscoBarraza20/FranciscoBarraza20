@@ -1,5 +1,5 @@
 <div>
-  <img width="1680" height="944" alt="Portada de perfil futurista – 30 Oct 2026, 8 43 pm" src="https://github.com/user-attachments/assets/e48113b1-c144-460e-b5cd-59d88c5b9dd9" />
+  <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/4b70ef8d-d374-4caf-b65a-adf7980a01cf" />
 </div>
 
 ## Hola, soy Francisco Barraza
