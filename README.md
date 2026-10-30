@@ -2,16 +2,7 @@
   <img src="assets/banner.svg" alt="Banner" width="100%" />
 </div>
 
-<br>
 
-<div align="center">
-  <a href="https://tu-portafolio.com"><img src="assets/btn-portafolio.svg" alt="Portafolio" height="32" /></a>
-  <a href="https://linkedin.com/in/tu-usuario"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="32" /></a>
-  <a href="mailto:tu@gmail.com"><img src="assets/btn-gmail.svg" alt="Gmail" height="32" /></a>
-  <a href="https://tu-portafolio.com/cv.pdf"><img src="assets/btn-cv.svg" alt="CV" height="32" /></a>
-</div>
-
-<br>
 
 ## Hola, soy Tu Francisco Barraza
 
