@@ -47,7 +47,24 @@ Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autentica
   <tr>
     <td width="75%" valign="middle">
 
-**ASTRAL**
+**ORGANIZADOR CURRICULAR INTELIGENTE**
+
+Desarrollo aplicaciones web utilizando Node.js con express y C# con .NET CORE como frameworks, ampliando conocimientos de Ciberseguridad y en Machine Learning
+
+Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autenticación JWT) y **ASTRAL** (detector de anomalías con ML).
+
+</td>
+    <td width="25%" align="center" valign="middle">
+      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/8a441739-c48e-4df3-9368-7ac46d476928" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="75%" valign="middle">
+
+**TEATRO LA DIVINE**
 
 Desarrollo aplicaciones web utilizando Node.js con express y C# con .NET CORE como frameworks, ampliando conocimientos de Ciberseguridad y en Machine Learning
 
