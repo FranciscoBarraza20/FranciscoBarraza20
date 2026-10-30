@@ -30,6 +30,7 @@ Ahora mismo ando investigando y desarrollando proyecto de Machine Learning llama
 Desarrollo de un proyecto de Machine Learning para la identificación de exoplanetas análogos a la Tierra a partir de sus características físicas, usando catálogos de la NASA y Gaia.
 Combina modelos de similitud, simulación Monte Carlo de zona habitable y una red neuronal en PyTorch.
 
+**TECNOLOGÍAS**
 
 </td>
     <td width="25%" align="center" valign="middle">
@@ -49,7 +50,8 @@ Importación automática de horarios desde Excel mediante IA.
 Autenticación local y con Google, con personalización de temas y datos por usuario.
 
 
-Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autenticación JWT) y **ASTRAL** (detector de anomalías con ML).
+**TECNOLOGÍAS**
+
 
 </td>
     <td width="25%" align="center" valign="middle">
@@ -68,8 +70,7 @@ Aplicación web full-stack para la gestión de carteleras, con selección intera
 Generación automática de entradas en formato PDF.
 Panel administrativo para el control de funciones.
 
-
-Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autenticación JWT) y **ASTRAL** (detector de anomalías con ML).
+**TECNOLOGÍAS**
 
 </td>
     <td width="25%" align="center" valign="middle">
