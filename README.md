@@ -41,9 +41,27 @@ Combina modelos de similitud, simulación Monte Carlo de zona habitable y una re
 
 **ORGANIZADOR CURRICULAR INTELIGENTE**
 
-Desarrollo aplicaciones web full-stack para la Gestión académica universitaria: malla curricular, asignaturas, calificaciones por semestre y calendario de eventos.
-Importación automática de horarios desde Excel mediante IA. Autenticación local y con Google, con personalización de temas y datos por usuario.
+Sistema Full Stack para la organización académica universitaria: malla curricular,
+horario de clases, calendario de eventos, notas por semestre y personalización visual.
 
+TECNOLOGÍAS
+Frontend: React 19 · TypeScript · Vite · React Router 7 · Axios · js-cookie · Google Gen AI · xlsx
+Backend: .NET 10 / C# · ASP.NET Core · EF Core · PostgreSQL · JWT · BCrypt · ClosedXML · Google OAuth · Gemini API · Docker
+
+CARACTERÍSTICAS
+- Registro e inicio de sesión con contraseña y con Google.
+- Rutas protegidas y verificación de token.
+- Dashboard con resumen académico.
+- Gestión de malla curricular por semestres y asignaturas.
+- Importación de malla desde imagen con IA (Gemini).
+- Horario semanal editable por día/hora.
+- Importación de horarios desde Excel/CSV con IA.
+- Calendario de eventos con colores personalizables.
+- Registro de notas y estados por asignatura.
+- Tema claro/oscuro y color de acento.
+- Persistencia local y sincronización con backend.
+- Migraciones y Seeder automáticos.
+Incluye además arquitectura por capas, entidades (User/Role, UserData), módulos principales y el flujo del sistema.
 
 </td>
     
