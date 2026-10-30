@@ -37,9 +37,7 @@ Combina modelos de similitud, simulación Monte Carlo de zona habitable y una re
 <a href="https://github.com/TU_USUARIO/astral"><img src="https://img.shields.io/badge/Ver%20repositorio-0d1117?style=for-the-badge&logo=github" alt="Repo Astral" /></a>
 
 </td>
-    <td width="25%" align="center" valign="middle">
-      <img width="1280" height="982" alt="astral" src="https://github.com/user-attachments/assets/3ca22d53-32db-4ab7-a851-d2f91a2f0989" />
-    </td>
+   
   </tr>
 </table>
 
@@ -56,9 +54,7 @@ Importación automática de horarios desde Excel mediante IA. Autenticación loc
 <a href="https://github.com/TU_USUARIO/organizador-curricular"><img src="https://img.shields.io/badge/Ver%20repositorio-0d1117?style=for-the-badge&logo=github" alt="Repo Organizador" /></a>
 
 </td>
-    <td width="25%" align="center" valign="middle">
-      <img width="1280" height="982" alt="organizador" src="https://github.com/user-attachments/assets/e0806045-e413-4eab-a3d0-b1dc0a84bcda" />
-    </td>
+    
   </tr>
 </table>
 
@@ -74,9 +70,7 @@ Aplicación web full-stack para la gestión de carteleras, con selección intera
 <a href="https://github.com/TU_USUARIO/teatro-la-divine"><img src="https://img.shields.io/badge/Ver%20repositorio-0d1117?style=for-the-badge&logo=github" alt="Repo Teatro" /></a>
 
 </td>
-    <td width="25%" align="center" valign="middle">
-     <img width="1280" height="982" alt="teatro" src="https://github.com/user-attachments/assets/d4f16b79-f7ee-4e75-a15f-0b68c17019a9" />
-    </td>
+    
   </tr>
 </table>
 
