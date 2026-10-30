@@ -45,7 +45,7 @@ Combina modelos de similitud, simulación Monte Carlo de zona habitable y una re
 
 </td>
     <td width="25%" align="center" valign="middle">
-      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/b5b71044-fbfe-4205-bbe8-3da50d31ec0f" />
+      <img width="1280" height="720" alt="astral" src="https://github.com/user-attachments/assets/3ca22d53-32db-4ab7-a851-d2f91a2f0989" />
     </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@ Importación automática de horarios desde Excel mediante IA. Autenticación loc
 
 </td>
     <td width="25%" align="center" valign="middle">
-      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/f9b45585-9646-4645-8235-ce38a5392c83" />
+      <img width="1280" height="720" alt="organizador" src="https://github.com/user-attachments/assets/e0806045-e413-4eab-a3d0-b1dc0a84bcda" />
     </td>
   </tr>
 </table>
@@ -84,7 +84,7 @@ Aplicación web full-stack para la gestión de carteleras, con selección intera
 
 </td>
     <td width="25%" align="center" valign="middle">
-     <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/ead17fc4-ebe5-49b9-a3db-ca93bd890f2e" />
+     <img width="1280" height="720" alt="organizador" src="https://github.com/user-attachments/assets/609db49c-85e4-49fb-bb89-6cdf9550d804" />
     </td>
   </tr>
 </table>
