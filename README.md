@@ -23,8 +23,6 @@ Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autentica
   </tr>
 </table>
 
-## Stack tecnológico
-
 
 ## Proyectos destacados
 
