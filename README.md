@@ -26,8 +26,28 @@ Ahora mismo ando investigando y desarrollando proyecto de Machine Learning llama
 
 **ASTRAL**
 
-Desarrollo de un proyecto de Machine Learning para la identificación de exoplanetas análogos a la Tierra a partir de sus características físicas, usando catálogos de la NASA y Gaia.
-Combina modelos de similitud, simulación Monte Carlo de zona habitable y una red neuronal en PyTorch.
+Proyecto de Machine Learning y ciencia de datos para astronomía: descarga de datos
+de estrellas y exoplanetas, reconocimiento de fuentes en imágenes FITS, estimación
+física de habitabilidad y entrenamiento de modelos de screening.
+
+TECNOLOGÍAS
+Python 3.11 · PyTorch · scikit-learn · pandas/NumPy · Astropy · Astroquery · SciPy · Pillow · joblib · PyYAML · pytest
+
+FUENTES DE DATOS
+Gaia DR3 · SkyView DSS2 Blue (FITS) · NASA Exoplanet Archive (PSCompPars)
+
+CARACTERÍSTICAS
+- Descarga y caché de Gaia DR3 e imágenes SkyView.
+- Detección de fuentes puntuales en FITS con WCS.
+- Preprocesamiento de imágenes y manifiestos.
+- Features de exoplanetas y cobertura de datos.
+- Habitabilidad física con Kopparapu + Monte Carlo.
+- Similitud con la Tierra (modelo no supervisado).
+- MLP en PyTorch con entrenamiento/evaluación (MAE, PR-AUC, ROC-AUC).
+- Inferencia CLI y agregación espacial por sectores.
+- Galerías e ilustraciones de planetas.
+- API HTTP local (/health, /predict/habitability).
+- Configuración YAML y tests con pytest.
 
 
 </td>
