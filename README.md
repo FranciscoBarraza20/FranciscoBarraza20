@@ -1,3 +1,7 @@
+<div>
+  <img width="679" height="273" alt="image" src="https://github.com/user-attachments/assets/e7e21dea-409a-4d42-8281-e45280190c6f" />
+</div>
+
 ## Hola, soy Tu Francisco Barraza
 
 <table>
