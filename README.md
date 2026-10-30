@@ -34,7 +34,6 @@ Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autentica
 
 ## Stack tecnológico
 
-<img src="assets/stack.svg" alt="Stack tecnológico" width="100%" />
 
 ## Proyectos destacados
 
