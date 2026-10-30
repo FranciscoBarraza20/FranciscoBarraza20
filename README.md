@@ -1,35 +1,41 @@
-<!-- 1. Banner Superior -->
-<p align="center">
-  <img src="tu-banner.gif" width="100%" alt="Banner Header">
-</p>
+<div align="center">
+  <img src="assets/banner.jpg" alt="Banner" width="100%" />
+</div>
 
-<!-- 2. Barra de Botones / Badge Menu -->
-<p align="center">
-  <a href="https://updrop.in"><img src="https://img.shields.io/badge/UPDROP.IN-black?style=for-the-badge&logo=triangle" alt="Updrop"></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:email@domain.com"><img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail" alt="Gmail"></a>
-  <a href="link-al-cv"><img src="https://img.shields.io/badge/RESUME-black?style=for-the-badge&logo=page" alt="Resume"></a>
-</p>
+<br>
 
-<br />
+<div align="center">
+  <a href="https://updrop.in">
+    <img src="https://img.shields.io/badge/UPDROP.IN-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tu@correo.com">
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://tu-sitio.com/cv.pdf">
+    <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+</div>
 
-<!-- 3. Encabezado tipo consola -->
-<h3><nobr>› Hey there! I'm Karthick 👋</nobr></h3>
+<br>
 
-<!-- 4. Contenedor de dos columnas (Texto a la izquierda | Imagen/GIF a la derecha) -->
+## Hey there! I'm Tu Nombre 👋
+
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h4><b>React Developer & AI/DS Undergrad</b> (Class of 2026)</h4>
-      <p>
-        I am based in Trivandrum and deeply passionate about crafting minimalist, high-performance web applications and building efficient automated workflows.
-      </p>
-      <p>
-        Currently, I'm focusing my energy on building <b>FileGhost</b> (a privacy-centric file-sharing platform) and <b>Updrop</b> (automation tools). My technical playground revolves around React, Tailwind CSS, local AI deployments, and orchestrating n8n pipelines to automate myself out of manual labor.
-      </p>
+
+**React Developer & AI/DS Undergrad (Class of 2026)**
+
+Me baso en [tu ciudad] y me apasiona crear aplicaciones web minimalistas y de alto rendimiento.
+
+Actualmente me enfoco en construir **Proyecto1** (descripción) y **Proyecto2** (descripción). Mi stack incluye React, Tailwind CSS y n8n.
+
     </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="tu-planeta.gif" width="100%" alt="Planet graphic">
+    <td width="30%" align="center">
+      <img src="assets/planeta.png" width="200" />
     </td>
   </tr>
 </table>
