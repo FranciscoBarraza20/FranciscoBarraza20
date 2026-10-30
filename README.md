@@ -16,7 +16,7 @@ Ahora mismo ando investigando y desarrollando un proyecto de Machine Learning ll
 
 </td>
     <td width="25%" align="center" valign="middle">
-      <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4b5c218d-0754-44ed-acdb-21d7837ec2a8" />
+      <img width="736" height="736" alt="Brain" src="https://github.com/user-attachments/assets/cf4a4d24-68d2-488a-b724-0a565fe35794" />
     </td>
   </tr>
 </table>
