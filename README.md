@@ -1,5 +1,5 @@
 <div>
-  <img width="3840" height="2160" alt="wp6899569-black-mountain-wallpapers" src="https://github.com/user-attachments/assets/6d12a1d9-04b7-4c57-b97f-fd330616f61b" />
+  <img width="3840" height="1160" alt="wp6899569-black-mountain-wallpapers" src="https://github.com/user-attachments/assets/6d12a1d9-04b7-4c57-b97f-fd330616f61b" />
 </div>
 
 ## Hola, soy Francisco Barraza
