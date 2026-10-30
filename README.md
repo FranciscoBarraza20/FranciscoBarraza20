@@ -1,7 +1,3 @@
-<div>
-  <img width="679" height="273" alt="image" src="https://github.com/user-attachments/assets/e7e21dea-409a-4d42-8281-e45280190c6f" />
-</div>
-
 ## Hola, soy Tu Francisco Barraza
 
 <table>
@@ -30,32 +26,14 @@ Ahora mismo ando investigando y desarrollando proyecto de Machine Learning llama
 
 **ASTRAL**
 
-Proyecto de Machine Learning y ciencia de datos para astronomía: descarga de datos
-de estrellas y exoplanetas, reconocimiento de fuentes en imágenes FITS, estimación
-física de habitabilidad y entrenamiento de modelos de screening.
-
-TECNOLOGÍAS
-Python 3.11 · PyTorch · scikit-learn · pandas/NumPy · Astropy · Astroquery · SciPy · Pillow · joblib · PyYAML · pytest
-
-FUENTES DE DATOS
-Gaia DR3 · SkyView DSS2 Blue (FITS) · NASA Exoplanet Archive (PSCompPars)
-
-CARACTERÍSTICAS
-- Descarga y caché de Gaia DR3 e imágenes SkyView.
-- Detección de fuentes puntuales en FITS con WCS.
-- Preprocesamiento de imágenes y manifiestos.
-- Features de exoplanetas y cobertura de datos.
-- Habitabilidad física con Kopparapu + Monte Carlo.
-- Similitud con la Tierra (modelo no supervisado).
-- MLP en PyTorch con entrenamiento/evaluación (MAE, PR-AUC, ROC-AUC).
-- Inferencia CLI y agregación espacial por sectores.
-- Galerías e ilustraciones de planetas.
-- API HTTP local (/health, /predict/habitability).
-- Configuración YAML y tests con pytest.
+Desarrollo de un proyecto de Machine Learning para la identificación de exoplanetas análogos a la Tierra a partir de sus características físicas, usando catálogos de la NASA y Gaia.
+Combina modelos de similitud, simulación Monte Carlo de zona habitable y una red neuronal en PyTorch.
 
 
 </td>
-    
+    <td width="25%" align="center" valign="middle">
+      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/b5b71044-fbfe-4205-bbe8-3da50d31ec0f" />
+    </td>
   </tr>
 </table>
 
@@ -65,30 +43,14 @@ CARACTERÍSTICAS
 
 **ORGANIZADOR CURRICULAR INTELIGENTE**
 
-Sistema Full Stack para la organización académica universitaria: malla curricular,
-horario de clases, calendario de eventos, notas por semestre y personalización visual.
+Desarrollo aplicaciones web full-stack para la Gestión académica universitaria: malla curricular, asignaturas, calificaciones por semestre y calendario de eventos.
+Importación automática de horarios desde Excel mediante IA. Autenticación local y con Google, con personalización de temas y datos por usuario.
 
-TECNOLOGÍAS
-Frontend: React 19 · TypeScript · Vite · React Router 7 · Axios · js-cookie · Google Gen AI · xlsx
-Backend: .NET 10 / C# · ASP.NET Core · EF Core · PostgreSQL · JWT · BCrypt · ClosedXML · Google OAuth · Gemini API · Docker
-
-CARACTERÍSTICAS
-- Registro e inicio de sesión con contraseña y con Google.
-- Rutas protegidas y verificación de token.
-- Dashboard con resumen académico.
-- Gestión de malla curricular por semestres y asignaturas.
-- Importación de malla desde imagen con IA (Gemini).
-- Horario semanal editable por día/hora.
-- Importación de horarios desde Excel/CSV con IA.
-- Calendario de eventos con colores personalizables.
-- Registro de notas y estados por asignatura.
-- Tema claro/oscuro y color de acento.
-- Persistencia local y sincronización con backend.
-- Migraciones y Seeder automáticos.
-Incluye además arquitectura por capas, entidades (User/Role, UserData), módulos principales y el flujo del sistema.
 
 </td>
-    
+    <td width="25%" align="center" valign="middle">
+      <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/f9b45585-9646-4645-8235-ce38a5392c83" />
+    </td>
   </tr>
 </table>
 
@@ -98,31 +60,12 @@ Incluye además arquitectura por capas, entidades (User/Role, UserData), módulo
 
 **TEATRO LA DIVINE**
 
-Sistema Full Stack para la administración de funciones, usuarios, reservas,
-pagos y selección visual de asientos de un teatro.
+Aplicación web full-stack para la gestión de carteleras, con selección interactiva de asientos y procesamiento de compras en línea. Generación automática de entradas en formato PDF. Panel administrativo para el control de funciones.
 
-TECNOLOGÍAS
-Frontend: React 19 · TypeScript · Vite · React Router 7 · Tailwind CSS 4 · Axios · js-cookie
-Backend: .NET 10 / C# · ASP.NET Core · EF Core · PostgreSQL · JWT · BCrypt · QuestPDF · SendGrid · Cloudinary · Docker
-
-CARACTERÍSTICAS
-- Registro y autenticación con JWT en cookie.
-- Roles Admin/Cliente y rutas protegidas.
-- Gestión de usuarios (habilitar, cambiar contraseña).
-- Gestión de funciones con imagen de portada.
-- Cartelera pública.
-- Selección visual de asientos.
-- Reservas con código único y expiración automática.
-- Pago vía API externa.
-- Consulta y anulación de reservas.
-- Comprobantes/entradas en PDF.
-- Correos transaccionales.
-- Panel administrativo.
-- Validación de RUT chileno y DTOs.
-- Seeder de datos iniciales.
-Incluye además arquitectura por capas, entidades (Usuario/Rol, Función, Asiento, Reserva, Pago) y el flujo principal del sistema.
 
 </td>
-    
+    <td width="25%" align="center" valign="middle">
+     <img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/ead17fc4-ebe5-49b9-a3db-ca93bd890f2e" />
+    </td>
   </tr>
 </table>
