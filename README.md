@@ -49,7 +49,7 @@ Importación automática de horarios desde Excel mediante IA. Autenticación loc
 
 </td>
     <td width="25%" align="center" valign="middle">
-      <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/f9b45585-9646-4645-8235-ce38a5392c83" />
+      <img width="1175" height="667" alt="image" src="https://github.com/user-attachments/assets/69ec196e-bcfc-4289-8cbf-d7b6f7a4e897" />
     </td>
   </tr>
 </table>
