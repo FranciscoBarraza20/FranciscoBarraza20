@@ -38,5 +38,5 @@ Ahora mismo trabajo en **Organizador Curricular Inteligente** (API con autentica
 
 ## Proyectos destacados
 
-<a href="https://github.com/tu-usuario/secure-api"><img src="assets/proyectos.svg" alt="Proyectos destacados" width="100%" /></a>
+<a href="[https://github.com/tu-usuario/secure-api](https://github.com/FranciscoBarraza20/Astral-ML)"><img src="assets/proyectos.svg" alt="Proyectos destacados" width="100%" /></a>
 
