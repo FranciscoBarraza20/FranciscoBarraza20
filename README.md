@@ -1,11 +1,5 @@
-<!-- ⚠️ Reemplaza TU_USUARIO por tu nombre de usuario de GitHub en todo el archivo -->
-
-<div align="center">
-  <img width="679" height="273" alt="Banner" src="https://github.com/user-attachments/assets/e7e21dea-409a-4d42-8281-e45280190c6f" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=flat" alt="Visitas" />
-  <img src="https://img.shields.io/badge/Antofagasta-Chile-0d1117?style=flat&logo=googlemaps&logoColor=white" alt="Ubicación" />
-  <img src="https://img.shields.io/badge/Estado-Disponible-2ea043?style=flat" alt="Disponible" />
+<div>
+  <img width="1680" height="944" alt="Portada de perfil futurista – 30 Oct 2026, 8 43 pm" src="https://github.com/user-attachments/assets/e48113b1-c144-460e-b5cd-59d88c5b9dd9" />
 </div>
 
 ## Hola, soy Francisco Barraza
