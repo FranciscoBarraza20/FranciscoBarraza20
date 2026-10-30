@@ -27,9 +27,11 @@ Ahora mismo ando investigando y desarrollando proyecto de Machine Learning llama
 
 **ASTRAL**
 
-***Descripción***
+**Descripción**
 Desarrollo de un proyecto de Machine Learning para la identificación de exoplanetas análogos a la Tierra a partir de sus características físicas, usando catálogos de la NASA y Gaia.
 Combina modelos de similitud, simulación Monte Carlo de zona habitable y una red neuronal en PyTorch.
+
+**Stack**
 
 
 </td>
