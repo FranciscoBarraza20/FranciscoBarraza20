@@ -19,7 +19,7 @@
   <tr>
     <td width="75%" valign="middle">
 
-**Desarrollador Full Stack | Ciberseguridad y Machine Learning**
+**Estudiante de Ingeniería en Computación e Informática**
 
 Desarrollo aplicaciones web utilizando Node.js con express y C# con .NET CORE como frameworks, ampliando conocimientos de Ciberseguridad y en Machine Learning
 
