@@ -1,5 +1,5 @@
 <div>
-  <img width="1693" height="590" alt="image" src="https://github.com/user-attachments/assets/eff5b473-0ebe-41d9-822b-ec38f400c67c" />
+  <img width="1024" height="574" alt="image" src="https://github.com/user-attachments/assets/57ccff05-d584-40e2-92be-6052de9567f5" />
 </div>
 
 ## Hola, soy Francisco Barraza
